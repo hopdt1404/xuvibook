@@ -12,4 +12,8 @@
  + composer require laravel/ui:^2.4
  + php artisan ui vue --auth
  + npm install && npm run dev
+ + composer require laravel/passport
+ + php artisan migrate
+ + php artisan passport:install
+ 
  
