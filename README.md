@@ -9,6 +9,7 @@
  + composer global require laravel/installer
  + 
  ##### Auth
+
  + composer require laravel/ui:^2.4
  + php artisan ui vue --auth
  + npm install && npm run dev
@@ -16,4 +17,4 @@
  + php artisan migrate
  + php artisan passport:install
  
- 
+ Link tutorial: https://www.youtube.com/watch?v=0a0iABxTQuY
