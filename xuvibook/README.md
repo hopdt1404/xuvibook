@@ -10,7 +10,7 @@
 
 + Video: become full stack developer
     - Link: https://www.youtube.com/watch?v=NMTEfaPEYB8&list=PLKpfEl4N7tRqIx4VZmuZBnUQ6vG4uDgq7&index=2
-    - Current time: 11:42
+    - Current time: 32:14
  
  ** Last update 11/12/2020
 
@@ -20,5 +20,8 @@
 + composer install
 + npm install
 + npm install vue
++ npm install vue-router
 
-
+## Run
++ php artisan serve & npm run watch
++ 
