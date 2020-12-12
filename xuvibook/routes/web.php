@@ -20,5 +20,5 @@ Route::get('/', function () {
 Route::get('test', 'TestController@test');
 
 Route::any('{slug}', function () {
-    return view('welcome');
+    return view('pages.not-found');
 });
