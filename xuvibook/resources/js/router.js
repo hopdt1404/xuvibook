@@ -4,6 +4,7 @@ Vue.use(Router);
 
 import FirstPage from './components/pages/NewPageVue';
 import NewPageRoute from './components/pages/NewPageRoute';
+import Hooks from './components/pages/basic/Hooks';
 
 const routes = [
     {
@@ -13,6 +14,12 @@ const routes = [
     {
         path: '/new-route',
         component: NewPageRoute
+    },
+
+    // vue hooks
+    {
+        path: '/hooks',
+        component: Hooks
     }
 ];
 
