@@ -15,5 +15,5 @@ mix.js('resources/js/app.js', 'public/js');
 
 mix.styles([
     'public/css/tutor_css/firstStyle.css',
-    'public/css/tutor_css/firstStyle.css'
+    'public/css/tutor_css/secondStyle.css'
 ], 'public/css/all.css');

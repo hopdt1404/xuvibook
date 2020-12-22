@@ -10,7 +10,8 @@
 
 + Video: become full stack developer
     - Link: https://www.youtube.com/watch?v=6VX_t45z8Mc&list=PLKpfEl4N7tRqIx4VZmuZBnUQ6vG4uDgq7&index=5
-    - Current time: 00:00
+    - Current time: 03:51
+    - Copy code from project full_stack_laravel_vuejs
  
  ** Last update 11/12/2020
 
