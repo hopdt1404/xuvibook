@@ -5,6 +5,7 @@ Vue.use(Router);
 import FirstPage from './components/pages/NewPageVue';
 import NewPageRoute from './components/pages/NewPageRoute';
 import Hooks from './components/pages/basic/Hooks';
+import Methods from './components/pages/basic/Methods';
 
 const routes = [
     {
@@ -20,7 +21,12 @@ const routes = [
     {
         path: '/hooks',
         component: Hooks
-    }
+    },
+    // vue more basic
+    {
+        path: '/methods',
+        component: Methods
+    },
 ];
 
 export default new Router({
