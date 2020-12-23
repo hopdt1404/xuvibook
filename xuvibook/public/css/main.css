@@ -3131,3 +3131,7 @@ i.cross_icon{
 .center_button{
     margin-top: 10px;
 }
+
+.footer-icon-size {
+    font-size: 24px !important;
+}

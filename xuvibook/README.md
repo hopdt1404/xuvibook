@@ -10,7 +10,7 @@
 
 + Video: become full stack developer
     - Link: https://www.youtube.com/watch?v=uInnUVqIIWM&list=PLKpfEl4N7tRqIx4VZmuZBnUQ6vG4uDgq7&index=6
-    - Current time: 00:00
+    - Current time: 06:00
     - Copy code from project full_stack_laravel_vuejs
  
  ** Last update 11/12/2020
@@ -22,6 +22,7 @@
 + npm install
 + npm install vue
 + npm install vue-router
++ npm install view-design --save
 
 ## Run
 + php artisan serve & npm run watch

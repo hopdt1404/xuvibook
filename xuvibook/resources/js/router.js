@@ -6,8 +6,15 @@ import FirstPage from './components/pages/NewPageVue';
 import NewPageRoute from './components/pages/NewPageRoute';
 import Hooks from './components/pages/basic/Hooks';
 import Methods from './components/pages/basic/Methods';
+import Home from './components/pages/Home';
 
 const routes = [
+    // project router
+    {
+        path: '',
+        component: Home
+    },
+
     {
         path: '/my-new-vue-route',
         component: FirstPage
