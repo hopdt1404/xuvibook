@@ -10,6 +10,7 @@
 
 
   <!-- Styles -->
+  <link rel="stylesheet" href="/css/all.css">
 
 </head>
 <body>
